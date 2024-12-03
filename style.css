@@ -210,7 +210,7 @@ blockquote em {
   .social-icons {
     display: flex;
     justify-content: center;
-    gap: 35px; /* مسافة بين الأيقونات */
+    gap: 20px; /* مسافة بين الأيقونات */
     margin: 20px 0;
   }
   
